@@ -1,0 +1,16 @@
+#services {
+	/*background-color: black;*/
+    background: url(../img/dark-metal-texture.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#learn_more {
+	/*background-color: black;*/
+	background: url(../img/dark-metal-texture.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
